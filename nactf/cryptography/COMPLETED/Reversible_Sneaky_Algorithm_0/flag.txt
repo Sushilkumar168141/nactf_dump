@@ -1,0 +1,4 @@
+
+we know that m = c^d mod n
+we were given c, d, and n so we use the formula and get the flag:
+nactf{w3lc0me_t0_numb3r_th30ry}

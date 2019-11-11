@@ -1,0 +1,4 @@
+https://en.wikipedia.org/wiki/Pigpen_cipher
+using the hint that it is a pigpen cipher, i search the term pigpen in google and got it.
+flag was :  
+nactf{th_th_th_thats_all_folks}
